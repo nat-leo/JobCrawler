@@ -1,0 +1,41 @@
+cases:
+  nvidia:
+    url: "https://www.nvidia.com"
+    expected:
+      url: "https://www.nvidia.com"
+  google:
+    url: "https://www.google.com/about/careers"
+    expected:
+      url: "https://www.google.com/about/careers/applications/jobs/results/"
+  verve:
+    url: "https://www.vervecoffee.com"
+    expected:
+      url: "https://job-boards.greenhouse.io/vervecoffeeroasters"
+  adobe:
+    url: "https://www.adobe.com"
+    expected:
+      url: "https://careers.adobe.com/us/en"
+  lululemon:
+    url: "https://corporate.lululemon.com"
+    expected:
+      url: "https://careers.lululemon.com/en_US/careers"
+  pizzamyheart:
+    url: "https://www.pizzamyheart.com"
+    expected:
+      url: "https://recruiting.paylocity.com/recruiting/jobs/All/585ebea3-46fd-433e-a16a-ece777f5ef11/Pizza-My-Heart"
+  epic:
+    url: "https://www.epic.com"
+    expected:
+      url: "https://epic.avature.net/Careers/RegisterMethod?folderId=27259"
+  riministreet:
+    url: "https://www.riministreet.com"
+    expected:
+      url: "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet"
+  lightningai:
+    url: "https://lightning.ai"
+    expected:
+      url: "https://job-boards.greenhouse.io/lightningai"
+  wanderlog:
+    url: "https://wanderlog.com"
+    expected:
+      url: "https://www.workatastartup.com/companies/wanderlog"
