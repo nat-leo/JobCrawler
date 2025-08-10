@@ -39,3 +39,23 @@ cases:
     url: "https://wanderlog.com"
     expected:
       url: "https://www.workatastartup.com/companies/wanderlog"
+  datacurve:
+    url: "https://datacurve.ai"
+    expected:
+      url: "https://jobs.ashbyhq.com/datacurve"
+  ashby:
+    url: "https://www.ashbyhq.com"
+    expected:
+      url: "https://www.ashbyhq.com/careers"
+  walmart:
+    url: "https://www.walmart.com"
+    expected:
+      url: "https://careers.walmart.com/results?q=&page=1&sort=rank&expand=department,brand,type,rate&jobCareerArea=all"
+  target:
+    url: "https://www.target.com"
+    expected:
+      url: "https://corporate.target.com/careers/job-search"
+  github:
+    url: "https://github.com"
+    expected:
+      url: "https://www.github.careers/careers-home/jobs"
