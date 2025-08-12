@@ -10,7 +10,7 @@ Job Hunt Like a Pro
 2. Design the webcrawler to scrape the site for associated URLS
 3. Given associated URLs, webcrawler must scrape urls to identify whether or not the URL is Job Listings
 
-#### Create a set of 25 company sites and their job sites. You're at 10/25 now
+#### Create a set of 25 company sites and their job sites. You're at 14/25 now
  - Put these in a tests folder.
 
 #### Design the webcrawler to scrape the site for associated URLS
